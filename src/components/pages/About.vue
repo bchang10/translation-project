@@ -12,7 +12,6 @@
         you will find us playing video games, <br>
         enjoying disc golf, or caring for our beloved dogs. <br>
         <br>
-        <h2>Our Mission</h2>
         We started this journey to inspire those interested in learning Hmong or simply looking to translate <br>
         and better understand the language. We hope you are excited to begin your Hmong journey with us!
     </p>
