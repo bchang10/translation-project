@@ -37,3 +37,16 @@ npm run build
 ```sh
 npm run test:unit
 ```
+
+Dependencies
+```sh
+npm install primevue
+```
+```sh
+npm install vue-router@4
+```
+```sh
+npm install @primevue/themes
+```
+```sh
+npm install axios```
