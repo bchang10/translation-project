@@ -1,5 +1,5 @@
 <script setup>
-import Toolbar from 'primevue/menubar'
+import MenuBar from 'primevue/menubar'
 import Logo from './Logo.vue'
 import { useRouter } from 'vue-router'
 
@@ -22,16 +22,14 @@ const items = [
 </script>
 
 <template>
-    <Toolbar :model="items">
+    <MenuBar :model="items">
         <template #start>
             <Logo />
         </template>
         <template #item="{ item }">
-            <RouterLink>
-                {{ item.label }}
-            </RouterLink>
+            {{ item.label }}
         </template>
-    </Toolbar>
+    </MenuBar>
 </template>
 
 <style lang="scss" scoped>
