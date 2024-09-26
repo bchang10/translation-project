@@ -6,8 +6,12 @@ import { useRouter } from 'vue-router'
 const router = useRouter()
 const items = [
     { 
-        label: 'Flashcard',
-        command: () => {router.push('/flashcard')} 
+        label: 'Translate',
+        command: () => {router.push('/translate')} 
+    },
+    { 
+        label: 'Test',
+        command: () => {router.push('/test')} 
     },
     { 
         label: 'Contact',
