@@ -49,4 +49,4 @@ npm install vue-router@4
 npm install @primevue/themes
 ```
 ```sh
-npm install axios```
+npm install axios
